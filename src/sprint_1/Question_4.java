@@ -37,7 +37,7 @@ public class Question_4 {
              int digit = num % 10;
              result = result + Math.pow(digit, lengthOfNumber);
              num = num / 10;
-//             System.out.println(num); // It removes (truncates) the decimal part.
+//             System.out.println(num); // int removes (truncates) the decimal part.
          }
 
          if(originalNum == result){
