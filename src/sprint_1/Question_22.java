@@ -20,6 +20,6 @@ public class Question_22 {
             }
         }
         System.out.println("Total Sum: " + total);
-        System.out.println("Even Numbers: " + oddNumbers);
+        System.out.println("Odd Numbers: " + oddNumbers);
     }
 }
